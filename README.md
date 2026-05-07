@@ -1,3 +1,6 @@
+![Consolidación de correos institucionales](https://github.com/user-attachments/assets/e518c1f4-66ae-48b2-a10b-8052411057e1)
+<hr>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-Finalizado-blue">
   <img src="https://img.shields.io/badge/Pandas-Data_Cleaning-orange">
